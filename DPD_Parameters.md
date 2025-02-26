@@ -1,4 +1,4 @@
-List of \chi parameters
+List of χ parameters
 | Label | Nafion™ (χ_FMO) | Aquivion™ (χ_FMO) | Flemion™ (χ_FMO) |
 | --- | --- | --- | --- |
 | A–B | -0.256 | -0.112 | -0.112 |
